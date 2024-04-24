@@ -1,0 +1,14 @@
+# Ignore the data folder inside the image_similarity_api directory
+image_similarity_api/data/
+
+# Ignore the notebook
+image_similarity_api/notebook.ipynb
+
+# Ignore the img_sim_env folder
+img_sim_env/
+
+#ignore features.npy
+image_similarity_api/features.npy
+
+#ignore features.npy
+features.npy
